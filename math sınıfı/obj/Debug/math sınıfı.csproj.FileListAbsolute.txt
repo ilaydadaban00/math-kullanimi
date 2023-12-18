@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\math sınıfı\math sınıfı\bin\Debug\math sınıfı.exe.config
+C:\Users\User\source\repos\math sınıfı\math sınıfı\bin\Debug\math sınıfı.exe
+C:\Users\User\source\repos\math sınıfı\math sınıfı\bin\Debug\math sınıfı.pdb
+C:\Users\User\source\repos\math sınıfı\math sınıfı\obj\Debug\math sınıfı.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\math sınıfı\math sınıfı\obj\Debug\math sınıfı.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\math sınıfı\math sınıfı\obj\Debug\math_sınıfı.Form1.resources
+C:\Users\User\source\repos\math sınıfı\math sınıfı\obj\Debug\math_sınıfı.Properties.Resources.resources
+C:\Users\User\source\repos\math sınıfı\math sınıfı\obj\Debug\math sınıfı.csproj.GenerateResource.cache
+C:\Users\User\source\repos\math sınıfı\math sınıfı\obj\Debug\math sınıfı.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\math sınıfı\math sınıfı\obj\Debug\math sınıfı.exe
+C:\Users\User\source\repos\math sınıfı\math sınıfı\obj\Debug\math sınıfı.pdb
